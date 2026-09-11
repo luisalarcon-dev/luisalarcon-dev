@@ -120,17 +120,30 @@ I use modern AI tools as part of my development workflow for:
 
 ## 🚧 Current Project
 
+### 🦷 Dental Clinic Website
+
+Responsive website developed as a professional web project for the healthcare sector.
+
+**Stack**
+
+`React` · `TypeScript` · `Tailwind CSS`
+
+🔗 Live demo: próximamente  
+💻 Repository: próximamente
+
+---
+
 ### 🔎 EncuentraPro
 
-Digital marketplace platform designed to connect clients with professionals
-and businesses.
+Digital marketplace platform designed to connect clients with professionals and businesses.
 
 **Stack**
 
 `React` · `TypeScript` · `NestJS` · `PostgreSQL` · `Prisma` · `Docker`
 
----
+🔒 Private development project.
 
+---
 
 ## 🤝 Work With Me
 
